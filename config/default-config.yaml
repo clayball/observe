@@ -1,2 +1,16 @@
 debug: 0
 
+db_user: database_user
+db_pass: database_pass
+db_name: database_dbname
+db_host: localhost
+
+site_email:  user@example.com
+alert_email: user@example.com
+
+darknet_dayfile: '/opt/observe/reports/data-darknet-20160228.csv'
+darknet_allfile: '/opt/observe/reports/data-darknet-daily.csv'
+darknet_start_date: '2016-02-01 00:00:00'
+darknet_stop_date:  '2016-03-31 23:59:59'
+
+scanners_ours: 127.0.0.1
